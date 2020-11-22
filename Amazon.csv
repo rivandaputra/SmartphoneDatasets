@@ -1,0 +1,148 @@
+﻿id,Brand,Type,Chipset,Screen_Dimension
+0,Samsung,"Galaxy A10 (Black, 2GB RAM and 32GB) with No Cost EMI/Additional Exchange Offers",Exynos 7884 octa core processor,6.2-inch
+1,Samsung,"Galaxy A2 Core (Blue, 1GB RAM, 16GB Storage) with No Cost EMI/Additional Exchange Offers",Exynos 7870 Octa-Core processor,5.0-inch
+2,Samsung,"Galaxy A20 (Black, 3GB RAM, 32GB Storage) with No Cost EMI/Additional Exchange Offers",Exynos 7884 octa core processor,6.4-inch
+3,Samsung,"Galaxy A30 (Black, 4GB RAM, 64GB Storage) with No Cost EMI/Additional Exchange Offers",Exynos 7904 octa core processor,6.4-inch
+4,Samsung,"Galaxy A50 (Black, 4GB RAM, 64GB Storage) with No Cost EMI/Additional Exchange Offers",Exynos 9610 Octa Core Processor,6.4-inch
+5,Samsung,"Galaxy A6 (Black, 4GB RAM, 64GB Storage) with Offers",Exynos 7870 octa core processor,5.6-inch
+6,Samsung,Galaxy A7 SM-A710FZDFINS (Gold),Exynos 7880 octa core processor,5.7-inch
+7,Samsung,"Galaxy A70 (Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers",Qualcomm Snapdragon SDM675 octa core processor,6.7-inch
+8,Samsung,"Galaxy A8 Star (Black, 6GB RAM, 64GB Storage)",SDM660 Snapdragon Qualcomm octa core processor,6.3-inch
+9,Samsung,"Galaxy A8+ (Black, 6GB RAM, 64GB Storage)",Exyn operating system 7885 octa core processor,6.0-inch
+10,Samsung,"Galaxy J4 (Black, 32GB) with No Cost EMI/Additional Exchange Offers",Exynos 7570 quad core processor,5.5-inch
+11,Samsung,"Galaxy J6 (Black, 4GB RAM, 64GB Storage)",Exyn operating system 7870 octa core processor,5.6-inch
+12,Samsung,"Galaxy M10 (Charcoal Black, 3+32GB)",Exynos 7870 octa-core processor,"6.22"""
+13,Samsung,"Galaxy M20 (Charcoal Black, 3+32GB)",Exynos 7904 octa-core processor,"6.3"""
+14,Samsung,"Galaxy M30 (Gradation Black, 4+64 GB)",Exynos 7904 octa core processor,6.4-inch
+15,Samsung,"Galaxy M40 (Cocktail Orange, 6GB RAM, 128GB Storage)",Qualcomm Snapdragon SD 675 octa core processor,6.3-inch
+16,Samsung,"Galaxy Note 9 (Midnight Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers",Exynos 9810 octa core processor,6.4-inch
+17,Samsung,"Galaxy S10 Plus (Black, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers",Exynos 9820 octa core processor,6.4-inch
+18,Samsung,"Galaxy S10e (Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers",Exynos 9820 octa core processor,5.8-inch
+19,Samsung,Galaxy S8 G950FD 64GB DUAL SIM Unlocked Phone-Midnight (Black),Exynos 8895,"5. 8"""
+20,Samsung,Galaxy S8+ (Midnight Black) 128 GB with Offer,Exynos 8895,6.2 inch
+21,Samsung,"Galaxy S9 (4GB RAM, 256GB Storage) Midnight Black",Exynos 9810 Octa-core Processor,5.8-inch
+22,Samsung,"Galaxy S9 Plus SM-G965FZKDINS (Midnight Black, 6GB RAM, 64GB Storage) Without Offer",Exynos 9810 octa core processor,6.2-inch
+23,Apple,iPhone 6s (32GB) - Gold,A9 chip,4.7-inch
+24,Apple,iPhone 8 Plus (256GB) - Silver,A11 Bionic,5.5-inch
+25,Apple,iPhone XR (128GB) - Black,A12 Bionic,6.1-inch
+26,Apple,iPhone Xs (256GB) - Space Grey,A12 Bionic,5.8-inch
+27,Apple,iPhone Xs Max (256GB) - Gold,A12 Bionic,6.5-inch
+28,Apple,iPhoneÂ 7 (32GB) - Rose Gold,A10 Fusion chip,4.7-inch
+29,Apple,iPhoneÂ 7 Plus (128GB) - Rose Gold,A10 Fusion chip,5.5-inch
+30,Google,"Pixel 2 XL (18:9 Display, 64 GB) Black",Qualcomm Snapdragon 835 64-bit octa core processor,6-inch
+31,Honor,"10 Lite (Midnight Black, 3GB RAM, 32GB Storage)",Kirin 710 octa core processor,6.21-inch
+32,Honor,"7C (Black, 3GB RAM, 32GB Storage)",Qualcomm SDM450 octa core processor,5.99-inch
+33,Honor,7S [ 2gb+16gb ] Blue,Mediatek MT6739 Cortex A53 Processor,5.45 inch
+34,Honor,"8C (Black, 4GB RAM, 32GB Storage)",Snapdragon 632 octa core processor,6.26-inch
+35,Honor,"8X (Black, 4GB RAM, 64GB Storage)",Kirin 710 octa core processor,6.5-inch
+36,Honor,"9 Lite (Black, 4GB RAM, 64GB Storage)",Kirin 659 octa core processor,5.65-inch
+37,Honor,"9N (Black, 4GB RAM, 128GB Storage)",Kirin 659 octa core processor,5.84-inch
+38,HTC,"Desire 12 + (Cool Black, 3GB RAM, 32GB Storage)",Qualcomm Snapdragon 450 64-bit octa core processor,6-inch
+39,HTC,Desire 820G Plus (Milkyway Grey),MT6592 octa core processor,5.5-inch
+40,HUAWEI,"MediaPad T5 Tablet (10.1 inch, 32GB, Wi-Fi + 4G LTE) Black",Kirin 659 octa-core processor,10.1-inch
+41,Huawei,"Nova 3i (Black, 4GB RAM, 128GB Storage)",Kirin 710 Octa core processor,6.3-inch
+42,Huawei,"P30 Lite (Midnight Black, 4GB RAM, 128GB Storage)",Kirin 710 octa core processor,6.15-inch
+43,Huawei,"P30 Pro (Breathing Crystal, 8GB RAM, 256GB Storage)",Kirin 980 octa core processor,6.47-inch
+44,Huawei,"Y9 2019 (Black, 4GB RAM, 64GB Storage)",Kirin 710 octa core processor,6.5-inch
+45,Lava,"Z40 (Gold, 1GB RAM, 8GB Storage)",Spectrum SC9832 quad core processor,4-inch
+46,Lava,"Z50 (Black, 1GB RAM, 8GB Storage)",MTK6737M quad core processor,4.5-inch
+47,Lava,Z60 (Black),Mediatek MTK 6737M quad core processor,5-inch
+48,Lava,Z60s (Gold),Mediatek MT 6739WW quad core processor,5-inch
+49,Lava,"Z61 (Black, 2GB RAM, 16GB Storage) with Offers",Mediatek MT 6739WW quad core processor,5.45-inch
+50,Lava,"Z81 (Black, 3GB RAM, 32GB Storage)",Mediatek MTK6761 quad core processor,5.7-inch
+51,Lava,"Z90 (Blue, 32GB) with Offers",MTK 6737 quad core processor,5.2-inch
+52,Lava,"Z91 (Blue, 3GB RAM, 32GB Storage) with Offers",MTK 6739 quad core processor,5.7-inch
+53,Lava,"Z92 (Blue, 3GB RAM, 32GB Storage)",Mediatek MTK6762 quad core processor,6.22-inch
+54,Lenovo,"A5 (Black, 32 GB) (3 GB RAM)",MediaTek MT6739 Processor,5.45 inch
+55,Lenovo,K6 Note (Silver),Qualcomm MSM8937 Snapdragon 430 octa core processor,5.5-inch
+56,LENOVO,K8 (Venom Black),Mediatek MTK6757 quad core processor,5.2-inch
+57,Lenovo,"K8 Note (Venom Black, 4GB RAM, 64GB Storage) System Update",Mediatek MTK6797D quad core processor,5.5-inch
+58,Lenovo,"Yoga Tab 3 10 Tablet (10.1 inch, 16GB, Wi-Fi + 4G LTE), Slate Black",Qualcomm MSM8909 quad core processor,10.1-inch
+59,Lenovo,"Yoga Tab 3 8 Tablet (8 inch, 16GB, Wi-Fi + 4G LTE), Slate Black",Qualcomm APQ8009/MSM8909 quad core processor,8-inch
+60,LG,"G6 (Black, FullVision)",Qualcomm MSM8996 quad core processor,5.7-inch
+61,LG,"K10 (16GB Dual SIM, Black-Gold)",Qualcomm MSM8916 quad core processor,5.3-inch
+62,LG,"K8 X240I (Black-Gold, 16GB)",Mediatek MT6735 quad core processor,5-inch
+63,LG,"Q Stylus (Black, 4GB RAM, 64GB Storage)",MT6750 octa core processor,6.2-inch
+64,LG,"Q6 (Black, 3GB RAM, 32GB Storage)",Qualcomm MSM8940 quad core processor,5.5-inch
+65,LG,Spirit H442 with 4G LTE (Black Titan),Qualcomm MSM8916 quad core processor,4.70-inch
+66,LG,"W10 (Smoky Gray, 3GB RAM, 32GB Storage)",Mediatek MTK6762 quad core processor,6.19-inch
+67,LG,"W30 (Aurora Green, 3GB RAM, 32GB Storage)",Mediatek MTK6762 quad core processor,6.26-inch
+68,Xiaomi,"Mi A2 (Black, 6GB RAM, 128GB Storage)",Qualcomm Snapdragon 660 octa core processor,5.99-inch
+69,Xiaomi,"Mi Mix 2 (Black, 6GB RAM, 128GB Storage)",Qualcomm MSM8998 quad core processor,5.99-inch
+70,Xiaomi,"Mi Redmi 4 (Gold, 64GB)",Qualcomm MSM8940 quad core processor,5-inch
+71,Xiaomi,"Mi Redmi 5 (Blue, 4GB RAM, 64GB Storage)",Qualcomm Snapdragon 450 octa-core processor,5.7-inch
+72,Xiaomi,"Mi Redmi 6 (Black, 3Gb+64Gb)",Mediatek MTK6762 quad core processor,5.45 Inch
+73,Xiaomi,"Mi Redmi 6A (Black, 2GB RAM, 32GB Storage)",Mediatek MTK6761 quad core processor,5.45-inch
+74,Xiaomi,"MI Redmi Note 5 (3 GB RAM, 32 GB, Gold)",Snapdragon 625 processor,15.2 cm (5.99)
+75,Moto,"Moto C Plus (Starry Black, 2GB RAM, 16GB Storage)",Mediatek MT6737 1.3 Ghz 64-bit quad core processor,68.9 cm
+76,Moto,"Moto E5 Plus (Black, 3GB RAM, 32GB Storage)",1.4GHz Snapdragon 430 octa core Processor,15.21 cm (6-inches)
+77,Moto,"Moto G6 (Indigo Black, 4GB RAM, 64GB Storage)",Snapdragon 450 1.8GHz octa core processor,15.21 cm (6-inches)
+78,Moto,"Moto G6 Plus (Indigo Black, 6+64 GB)",2.2GHz Qualcomm Snapdragon 630 octa-core processor,14.99 cm (5.9-inch) 
+79,Motorola,"Moto Z2 Play (Lunar Grey, 64GB, 4GB RAM)",2.2GHz Qualcomm Snapdragon 626 octa core processor,13.97 centimeters (5.5-inch) 
+80,Motorola,"Motorola G5s Plus (Blush Gold, 64GB)",2.0GHz Snapdragon 625 octa core processor,13.97 centimeters (5.5-inch)
+81,Motorola,"Motorola G6 Play PA9V0000GB (Indigo Black, 32GB)",1.4GHz Qualcomm octa core processor,14.478 centimeters (5.7-inch)
+82,Motorola,"Motorola G7 Power (Black, 4GB RAM, 64GB Storage)",snapdragon 632,6. 2 inches (15. 75 cm)
+83,Motorola,"Motorola Moto E4 (Iron Grey, 2GB RAM, 16GB Storage)",MT6737 Quad-core 1.3 GHz ARM Mali T720 MP1 650MHz,5-inch
+84,Motorola,"Motorola Moto G5 (Fine Gold, 3 GB)",Qualcomm Snapdragon 430 octa-core processor (1.4GHz),12.7 centimeters (5-inch) 
+85,Motorola,"Motorola Moto X4 (Super Black, 32GB)",Qualcomm Snapdragon 630,7.34 cm
+86,Motorola,"Motorola One Power P30 (Black, 4GB RAM, 64GB Storage)",qualcomm snapdragon 636,15. 75 cm (6. 2 inch)
+87,Nokia,Nokia 2.1 (Blue-Copper),Qualcomm Snapdragon 425,5.5-inch
+88,Nokia,"Nokia 3.1 (Black, 32GB)",MediaTek MT6750,5.2-inch
+89,Nokia,"Nokia 3.1 Plus (Baltic, 3GB RAM, 32GB Storage)",Mediatek MT6762,15.24 centimeters (6-inch)
+90,Nokia,"Nokia 3.2 (Black, 2GB RAM, 16GB Storage)",Qualcomm Snapdragon 429,15.9 centimeters (6.26-inch) 
+91,Nokia,"Nokia 4.2 (Black, 32 GB) (3 GB RAM)",Qualcomm SDM439 Snapdragon 439,5. 71 inch
+92,Nokia,"Nokia 5.1(Blue, 32 GB)",MediaTek MT6755S SoC,5.5-inch
+93,Nokia,"Nokia 6.1 (Blue-Gold, 4GB RAM, 64GB Storage)",qualcomm snapdragon 630,13.9 centimeters (5.5-inch)
+94,Nokia,"Nokia 6.1 Plus (Black, 6GB RAM, 64GB Storage)",Qualcomm Snapdragon 636,14.73 cm (5.8 inch)
+95,Nokia,"Nokia 8.1 (Blue, 4GB RAM, 64GB Storage)",Qualcomm Snapdragon 710,6.18 inch
+96,OnePlus,"OnePlus 6T (Midnight Black, 8GB RAM, 128GB Storage)",Qualcomm Snapdragon 845,6.41-inch(16.2 cms)
+97,OnePlus,"OnePlus 7 Pro (Almond, 8GB RAM, 256GB Storage)",Snapdragon 855,16.9 centimeters (6.67-inch)
+98,Oppo,"OPPO A1K (Black, 2GB RAM, 32GB Storage) with No Cost EMI/Additional Exchange Offers",Mediatek MT6762R,15.49 centimeters
+99,Oppo,"OPPO A3s (Dark Purple, 3GB RAM, 32GB Storage) with No Cost EMI/Additional Exchange Offers",Qualcomm Snapdragon 450,15.74 centimeters (6.2-inch)
+100,Oppo,"OPPO A5 (4GB RAM | 32GB, Diamond Red) with No Cost EMI/Additional Exchange Offers",1.8GHz Cortex-A53 octa core processor Snapdragon 450,"6.2"" (15.75 cm)"
+101,Oppo,"OPPO A5S (Green, 4GB RAM, 64GB Storage) with No Cost EMI/Additional Exchange Offers",Mediatek 6765,5.748 centimeters (6.2-inch)
+102,Oppo,"OPPO A7 (Glaze Blue, 4GB RAM, 64GB Storage) with No Cost EMI/Additional Exchange Offers",Snapdragon 450,15.7 centimeters (6.2-inch)
+103,Oppo,"OPPO A83 (Red, 4GB RAM | 64GB Storage)",Mediatek MT6763T octa core processor,14.478 centimeters (5.7-inch)
+104,Oppo,"OPPO F11 (Fluorite Purple, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers",MediaTek Helio P70,16.58 centimeters (6.5-inch)
+105,Oppo,"OPPO F11 Pro (Aurora Green, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers",MediaTek Helio P70,16.58 centimeters (6.5-inch)
+106,Oppo,"Oppo F5 (Black, 6GB RAM, 64GB Storage) with Offers",MT6763T octa core processor,15.24 centimeters (6-inch)
+107,Oppo,"OPPO F9 Mist Black (4GB RAM, 64GB)",Mediatek Helio P60,16.0 cm (6.3 inch) 
+108,Panasonic,"Panasonic Eluga I3 Mega (Gold, 16GB)",Mediatek MTK6735,13.97 centimeters (5.5-inch)
+109,Panasonic,Panasonic Eluga I9 EB-90S50EY9N (Space Grey),Mediatek MT6737 ,12.7 centimeters (5-inch)
+110,Panasonic,"Panasonic Eluga Ray 530 (Black, 32GB)",MT6739WA,14.47 centimeters (5.7-inch)
+111,Panasonic,"Panasonic Eluga X1 Pro (Grey, 6GB RAM, 128GB Storage)",MediaTek Helio P60 ,15.697 centimeters (6.18-inch)
+112,Panasonic,"Panasonic P85 NXT (Black, 2GB RAM, 16GB Storage)",Snapdragon 210,12.7 centimeters (5-inch)
+113,Panasonic,"Panasonic P95 (Gold, 1GB RAM, 16GB Storage)",Qualcomm quad core processor,12.7 centimeters (5-inch)
+114,Realmi,"Realme 2 (Diamond Blue, 3GB RAM, 32GB Storage)",Qualcomm Snapdragon 450,15.748 centimeters (6.2-inch)
+115,Realmi,"Realme 2 Pro (Black Sea, 8GB RAM, 128GB Storage)",Qualcomm Snapdragon 660,16.002 centimeters (6.3-inch) 
+116,Realmi,Realme 3 Dynamic Black (4GB 64GB),Mediatek Helio P70,15.8 cm (6.2 Inches) 
+117,Realmi,Realme 3 pro 6Gb 128Gb (Purple),Qualcomm Snapdragon 710,16.0 centimeters (6.3-inch)
+118,Realmi,"Realme C2 (Diamond Blue, 32 GB) (3 GB RAM)",MediaTek P22,15.49 cm (6.1 inch)
+119,Realmi,"Realme U1 (Ambitious Black, 3GB RAM, 32GB Storage)",MediaTek Helio P70,16.002 centimeters (6.3-inch)
+120,Xiaomi,"Redmi 6 Pro (Black, 4GB RAM, 64GB Storage)",Qualcomm Snapdragon 625,"14.83 cm (5.84"")"
+121,Xiaomi,"Redmi 7 (Comet Blue, 3GB RAM, 32GB Storage)",Qualcomm Snapdragon 632,15.90 cm (6.26-inch)
+122,Xiaomi,"Redmi Mi Note 6 Pro (Black, 4GB RAM, 64GB Storage)",Qualcomm Snapdragon 636,15.9004 centimeters (6.26-inch)
+123,Xiaomi,"Redmi Note 4 (Grey, 4GB RAM, 64GB Storage)",Qualcomm Snapdragon 625,13.9 centimeters (5.5-inch)
+124,Xiaomi,"Redmi Note 5 Pro (Blue, 6GB RAM, 64GB Storage)",Qualcomm snapdragon 636,"15.91 cm (5.99"")"
+125,Xiaomi,"Redmi Note 7 (Onyx Black, 4GB RAM, 64GB Storage)",Qualcomm Snapdragon 660,16.002 centimeters (6.3-inch) 
+126,Xiaomi,"Redmi Note 7 Pro (Nebula Red, 128GB, 6GB RAM)",Qualcomm Snapdragon 675,16.0 cm (6.3 inch)
+127,Xiaomi,"Redmi Note 7S (Onyx Black, 64GB, 4GB RAM)",Qualcomm Snapdragon 660,16-cm (6.3)
+128,Xiaomi,"Redmi Y1 (Gold, 3GB RAM, 32GB Storage)",Snapdragon 435,13.97 centimeters (5.5-inch) 
+129,Xiaomi,"Redmi Y2 (Black, 4GB RAM, 64GB Storage)",Qualcomm Snapdragon 625,15.21 centimeters (5.99-inch)
+130,Xiaomi,"Redmi Y3 (Bold Red, 4GB RAM, 64GB Storage)",Qualcomm Snapdragon 632,15.90 cm (6.26-inch) 
+131,Vivo,"Vivo V11 Pro (Starry Night Black, 6GB RAM, 64GB Storage)",Qualcomm Snapdragon 660,16.29 centimetres (6.41-inch) 
+132,Vivo,"Vivo V15 (Aqua Blue, 6GB RAM, 64GB Storage) with No Cost EMI/Additional Exchange Offers",MediaTek P70,16.59 centimeters (6.53-inch)
+133,Vivo,"Vivo V15 Pro (Ruby Red, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers",Qualcomm Snapdragon 675,16.23 centimeters (6.39-inch)
+134,Vivo,"Vivo V7+ (Gold, Fullview Display)",Qualcomm Snapdragon 450,15.2146 centimeters (5.99-inch)
+135,Vivo,"Vivo V9 (Gold, 64GB) Without Offers", Snapdragon 626,16 centimeters (6.3-inch)
+136,Vivo,Vivo V9 Youth (Black) Without Offer,Qualcomm Snapdragon 450,16.002 centimeters (6.3-inch)
+137,Vivo,"Vivo Y12 (Aqua Blue, 4GB RAM, 32GB Storage) with No Cost EMI/Additional Exchange Offers",MediaTek Helio P22,16.15 centimeters (6.35-inch) 
+138,Vivo,"Vivo Y15 (Aqua Blue, 4GB RAM, 64GB Storage) with No Cost EMI/Additional Exchange",MediaTek Helio P22,16.15 centimeters (6.35-inch) 
+139,Vivo,"Vivo Y17 (Mineral Blue, 4GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers",MediaTek P35,6.35-inch (16.15 centimeters)
+140,Vivo,Vivo Y53 (Matte Black),Qualcomm MSM8917 Snapdragon 425,12.7 centimeters (5-inch)
+141,Vivo,Vivo Y53i 1606 (Matte Black) Without Offer,Qualcomm Snapdragon 425,12.7 centimeters (5-inch) 
+142,Vivo,"Vivo Y81 (Gold, 4GB RAM, 32GB Storage) with No Cost EMI/Additional Exchange Offers",Helio P22 MediaTek,15.46 centimeters (6.22-inch)
+143,Vivo,"Vivo Y83 (Gold, 4GB RAM, 32GB Storage) with Offers",Mediatek Helio P22,15.46 centimeters (6.22-inch) 
+144,Vivo,"Vivo Y91 (Nebula Purple, 3GB RAM, 32GB Storage) with No Cost EMI/Additional Exchange Offers",Qualcomm Snapdragon 439,15.80 centimeters (6.22-inch) 
+145,Vivo,"Vivo Y91i (Fusion Black, 2GB RAM, 32GB Storage) with No Cost EMI/Additional Exchange Offers",Helio P22,15.80 centimeters (6.22-inch)
+146,ZTE,ZTE V8 Mini (Silver),Snapdragon 435,2.7 centimeters (5-inch) 
